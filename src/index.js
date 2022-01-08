@@ -1,4 +1,4 @@
-module.exports = {
+const toExport = {
   city: require("./city").city,
   state: require("./state").state,
   country: require("./country").country,
@@ -14,5 +14,7 @@ module.exports = {
     email: require("./person").email,
   },
 };
+
+module.exports = toExport;
 
 // console.log(module.exports);
