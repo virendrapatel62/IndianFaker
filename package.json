@@ -1,0 +1,24 @@
+{
+  "name": "indianfaker",
+  "version": "1.0.0",
+  "description": "Fake India data generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virendrapatel62/IndianFaker.git"
+  },
+  "keywords": [
+    "faker",
+    "fakedata"
+  ],
+  "author": "Virendra Kumar Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virendrapatel62/IndianFaker/issues"
+  },
+  "homepage": "https://github.com/virendrapatel62/IndianFaker#readme"
+}
